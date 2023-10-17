@@ -1,0 +1,17 @@
+D:\praUK\KonversiNilai\KonversiNilai\bin\Debug\net6.0-windows\KonversiNilai.exe
+D:\praUK\KonversiNilai\KonversiNilai\bin\Debug\net6.0-windows\KonversiNilai.deps.json
+D:\praUK\KonversiNilai\KonversiNilai\bin\Debug\net6.0-windows\KonversiNilai.runtimeconfig.json
+D:\praUK\KonversiNilai\KonversiNilai\bin\Debug\net6.0-windows\KonversiNilai.dll
+D:\praUK\KonversiNilai\KonversiNilai\bin\Debug\net6.0-windows\KonversiNilai.pdb
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.csproj.AssemblyReference.cache
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.Form1.resources
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.csproj.GenerateResource.cache
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.GeneratedMSBuildEditorConfig.editorconfig
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.AssemblyInfoInputs.cache
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.AssemblyInfo.cs
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.csproj.CoreCompileInputs.cache
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.dll
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\refint\KonversiNilai.dll
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.pdb
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\KonversiNilai.genruntimeconfig.cache
+D:\praUK\KonversiNilai\KonversiNilai\obj\Debug\net6.0-windows\ref\KonversiNilai.dll
